@@ -100,6 +100,14 @@ You can customize the following:
 - **Hover Information**: Add or remove details from the hover tooltip by editing the `hovertemplate`.
 - **Annotations**: If you prefer annotations instead of tooltips, you can re-enable or adjust them in the chart.
 
+## Author
+
+This project was created by **Wendy Ware**.
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- GitHub: [Whereiswendy](https://github.com/Whereiswendy)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
