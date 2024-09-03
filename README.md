@@ -93,7 +93,7 @@ Week 2: Task 1,2024-09-08,2024-09-14,0,Conduct initial research on existing imag
 ...
 ```
 
-### Customization
+### Customisation
 
 You can customize the following:
 - **Color Scale**: Modify the `color_continuous_scale` in the `create_gantt_chart` function to use different color schemes.
