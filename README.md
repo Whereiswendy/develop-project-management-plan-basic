@@ -104,9 +104,9 @@ You can customize the following:
 
 This project was created by **Wendy Ware**.
 
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/wendy-ware-b474477a)
+- LinkedIn: [Wendy Ware](linkedin.com/in/wendy-ware-b474477a)
 - GitHub: [Whereiswendy](https://github.com/Whereiswendy)
-- Email: [your-email@example.com](wendy.ware2@gmail.com)
+- Email: [wendy.ware2@gmail.com](wendy.ware2@gmail.com)
 
 ## Contributing
 
