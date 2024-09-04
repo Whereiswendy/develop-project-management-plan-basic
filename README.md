@@ -95,7 +95,7 @@ Week 2: Task 1,2024-09-08,2024-09-14,0,Conduct initial research on existing imag
 
 ### Customisation
 
-You can customize the following:
+You can customise the following:
 - **Color Scale**: Modify the `color_continuous_scale` in the `create_gantt_chart` function to use different color schemes.
 - **Hover Information**: Add or remove details from the hover tooltip by editing the `hovertemplate`.
 - **Annotations**: If you prefer annotations instead of tooltips, you can re-enable or adjust them in the chart.
@@ -104,7 +104,7 @@ You can customize the following:
 
 This project was created by **Wendy Ware**.
 
-- LinkedIn: [Wendy Ware](linkedin.com/in/wendy-ware-b474477a)
+- LinkedIn: [linkedin.com/in/wendy-ware-b474477a](linkedin.com/in/wendy-ware-b474477a)
 - GitHub: [Whereiswendy](https://github.com/Whereiswendy)
 - Email: [wendy.ware2@gmail.com](wendy.ware2@gmail.com)
 
